@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi, I'm Farman</h1>
-<div> <a href="https://www.linkedin.com/in/Farman Asadov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/FarmanAsadov" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/www.linkedin.com/in/farmanasadov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/https://github.com/FarmanAsadov" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/https://www.instagram.com/f.esedovv/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Farman Asadov" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Farman Asadov" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/www.linkedin.com/in/farmanasadov" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/farmanasadov" height="30" width="40" /></a><a href="https://instagram.com/https://www.instagram.com/f.esedovv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.instagram.com/f.esedovv/" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,16 +31,14 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarmanAsadov&layout=compact&theme=midnight-purple" alt=FarmanAsadov />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=FarmanAsadov&show_icons=true&locale=en&theme=midnight-purple" alt="FarmanAsadov" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/FarmanAsadov&show_icons=true&locale=en&theme=midnight-purple" alt="https://github.com/FarmanAsadov" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/FarmanAsadov">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FarmanAsadov&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FarmanAsadov&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FarmanAsadov&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FarmanAsadov&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarmanAsadov&theme=midnight_purple" height="180em" />
+<a href="https://github.com/https://github.com/FarmanAsadov">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=https://github.com/FarmanAsadov&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https://github.com/FarmanAsadov&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=https://github.com/FarmanAsadov&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=https://github.com/FarmanAsadov&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https://github.com/FarmanAsadov&theme=2077" height="180em" />
 </div>
