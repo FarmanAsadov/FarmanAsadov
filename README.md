@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I'm Farman</h1>
+<img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div><h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -29,11 +31,11 @@
 </p>
 
 <h3 align="center">Stars</h3>
-<div style="display:flex; flex-direction: column;">
+<div align="center" >
   
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarmanAsadov&layout=compact&theme=midnight-purple" alt=FarmanAsadov />
 
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=FarmanAsadov&show_icons=true&locale=en&theme=midnight-purple" alt="FarmanAsadov" />
+<p>&nbsp<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarmanAsadov&show_icons=true&locale=en&theme=midnight-purple" alt="FarmanAsadov" /></p>
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
